@@ -40,28 +40,3 @@ I am a highly analytical and results-oriented **Industrial Engineer** and **Mast
 * **Goal:** Enhance safety systems at ECS’s 100,000 sq ft manufacturing facility.
 * **Analysis:** Analyzed incident reports and facility layout using **Python** and **Excel**.
 * **Outcome:** Determined the optimal number, contents, and placement of emergency supply kits to ensure all employees could access them within OSHA-mandated response time.
-
----
-
-## Tech
-| Category | Skills |
-| :--- | :--- |
-| **Data Science & Analytics** | [cite_start]Statistical Analysis, **Predictive Modeling**, **Machine Learning**, Data Cleaning & Wrangling, Data Visualization, Hypothesis Testing, Time Series Forecasting [cite: 28]|
-| **Programming & Tools** | [cite_start]**R**, **Python**, **SQL**, Bash, Jupyter Notebook, RStudio, NumPy, **Pandas**, Git, **GitHub**, Microsoft Excel, Simio [cite: 29]|
-| **Engineering** | [cite_start]Simulation Modeling, **Operations Research**, Quality Engineering, Technical Writing [cite: 30]|
-
----
-
-## Documents & Contact
-
-| Resource | Link |
-| :--- | :--- |
-| **LinkedIn** | [cite_start][linkedin.com/in/alexandra-mckillip-15171920a](https://linkedin.com/in/alexandra-mckillip-15171920a) [cite: 3]|
-| **GitHub** | [cite_start][github.com/alexandra-mckillip](https://github.com/alexandra-mckillip) [cite: 3]|
-| **Email** | [cite_start][alexandra.mckillip@rice.edu](mailto:alexandra.mckillip@rice.edu) [cite: 2]|
-| **CV/Resume** | [Link to CV/Resume Document] |
-
-**Education:**
-* [cite_start]Master of Data Science, **Rice University** (Expected Dec. 2026) [cite: 5]
-* [cite_start]Bachelor of Science in Industrial Engineering, **Texas A&M University** (Dec. 2024) [cite: 6]
-* [cite_start]Data Center Operations Engineering Certificate (Dec. 2024) [cite: 32]
