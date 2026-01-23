@@ -38,6 +38,7 @@ My approach to Data Science is uniquely informed by my B.S. in Industrial Engine
 ## Key Projects
 
 #### Predictive Analytics on Competitive Speedcubing
+
 * **Goal:** Examine correlations and predict competitor performance across speedcubing events.
 * **Techniques:** Conducted statistical analysis in **R** (`tidyverse`, `ggplot2`, `softImpute`) on World Cube Association data.
 * **Models:** Applied **correlation analysis** and **matrix completion** with **principal component analysis**.
@@ -45,6 +46,7 @@ My approach to Data Science is uniquely informed by my B.S. in Industrial Engine
 ![Correlation Heatmap](images/speedcubing_correlation_heatmap.png)
 
 #### Optimizing Concrete Strength through Statistical and Predictive Modeling
+
 * **Goal:** Identify key predictors of compressive strength in concrete mixtures.
 * **Techniques:** Analyzed a dataset of 1,030 mixtures in **Python** (`pandas`, `matplotlib`, `sklearn`).
 * **Models:** Utilized OLS, **LASSO**, Naive Bayes, and decision tree models.
