@@ -1,6 +1,8 @@
 # Hello! I’m Alexandra McKillip
 **Data Scientist | Machine Learning Specialist | Industrial Engineer**
 
+![Head shot](images/DSC_9169.jpg)
+
 I am currently pursuing my Master’s in Data Science at Rice University, where I am specializing in Machine Learning. My academic journey is built on a rigorous foundation of statistics and core ML principles, which I am now extending into Deep Learning, Computer Vision, and Natural Language Processing.
 
 My approach to Data Science is uniquely informed by my B.S. in Industrial Engineering (Minor in Statistics). This background gives me a unique "Systems Thinking" perspective, allowing me to treat data as part of a larger, interconnect process rather than just isolated numbers.
