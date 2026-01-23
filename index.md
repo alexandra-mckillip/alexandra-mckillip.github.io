@@ -1,5 +1,6 @@
 ## About Me
 
+
 **Data Scientist | Machine Learning Specialist | Industrial Engineer**
 
 I am currently pursuing my Master’s in Data Science at Rice University, where I am specializing in Machine Learning. My academic journey is built on a rigorous foundation of statistics and core ML principles, which I am now extending into Deep Learning, Computer Vision, and Natural Language Processing.
