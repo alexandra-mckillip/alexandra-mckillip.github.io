@@ -9,11 +9,12 @@ My approach to Data Science is uniquely informed by my B.S. in Industrial Engine
 ---
 
 ## Technical Toolbox
+
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | Python, SQL, R |
 | **Machine Learning** | Computer Vision, Deep Learning, Stochastic Modeling, NLP |
-| **Tools** | Scikit-Learn, Pandas, NumPy, Tableau, Tensorflow, Spark, Git, LAMMPS, Simio |
+| **Tools** | Scikit-Learn, Pandas, NumPy, Tableau, TensorFlow, Spark, Git, LAMMPS, Simio |
 
 ---
 
@@ -21,12 +22,14 @@ My approach to Data Science is uniquely informed by my B.S. in Industrial Engine
 
 #### Research Intern | Université de Poitiers, Poitiers, France
 *(May 2023 – July 2023)*
+
 * Researched core-shell nanoparticles using **C++** and **LAMMPS** simulations to determine material properties.
 * Discovered that as the core radius of core-shell nanoparticles increases, their interface energy increases linearly.
 * Authored a technical research paper and presented findings in professional settings.
 
 #### Teaching Assistant, System Simulations | Texas A&M University, College Station, Texas
 *(Jan. 2024 – May 2024)*
+
 * Guided over 50 students during lab sessions for the stochastic simulation course, *System Simulations*.
 * Provided individualized instruction by troubleshooting software (**Simio**) and simplifying complex topics.
 
@@ -36,9 +39,9 @@ My approach to Data Science is uniquely informed by my B.S. in Industrial Engine
 
 #### Predictive Analytics on Competitive Speedcubing
 * **Goal:** Examine correlations and predict competitor performance across speedcubing events.
-* **Techniques:** Conducted statistical analysis in **R** (`tidyverse`, `ggplot2`,`softImpute` ) on World Cube Association data.
+* **Techniques:** Conducted statistical analysis in **R** (`tidyverse`, `ggplot2`, `softImpute`) on World Cube Association data.
 * **Models:** Applied **correlation analysis** and **matrix completion** with **principal component analysis**.
-  
+
 ![Correlation Heatmap](images/speedcubing_correlation_heatmap.png)
 
 #### Optimizing Concrete Strength through Statistical and Predictive Modeling
