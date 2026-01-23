@@ -29,6 +29,7 @@ I am a highly analytical and results-oriented **Industrial Engineer** and **Mast
 * **Goal:** Examine correlations and predict competitor performance across speedcubing events.
 * **Techniques:** Conducted statistical analysis in **R** (`tidyverse`, `ggplot2`,`softImpute` ) on World Cube Association data.
 * **Models:** Applied **correlation analysis** and **matrix completion** with **principal component analysis**.
+  
 ![Correlation Heatmap](images/speedcubing_correlation_heatmap.png)
 
 #### Optimizing Concrete Strength through Statistical and Predictive Modeling
