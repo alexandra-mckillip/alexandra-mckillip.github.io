@@ -13,8 +13,8 @@ My approach to Data Science is uniquely informed by my B.S. in Industrial Engine
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | Python, SQL, R |
-| **Machine Learning** | Computer Vision, Deep Learning, Stochastic Modeling, NLP |
-| **Tools** | Scikit-Learn, Pandas, NumPy, Tableau, TensorFlow, Spark, Git, LAMMPS, Simio |
+| **Machine Learning** | Deep Learning, NLP, Computer Vision, Stochastic Modeling |
+| **Tools** | Scikit-Learn, Pandas, NumPy, Tableau, PyTorch, Spark, Git, LAMMPS, Simio |
 
 ---
 
